@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production Builds
+dist/
+
+# Python environments and caches
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local configuration
+.env
+.env.local
+
+# System files
+.DS_Store
