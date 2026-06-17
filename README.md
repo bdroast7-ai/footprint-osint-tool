@@ -21,6 +21,12 @@
 
 ## 📦 Installation & Setup
 
+
+# Scan username networks
+footprint --username target_handle
+
+# Scan raw image data traces
+footprint --image path/to/evidence.jpg
 ```bash
 # Install hard requirements
 pip install -r requirements.txt
