@@ -1,0 +1,31 @@
+_BODY_NOT_FOUND_SIGNALS = {
+    # Custom specific strings
+    "Medium": "No results for",
+    "Dev.to": "Sorry, we can't find that page",
+    "Letterboxd": "Sorry, we can't find that page",
+
+    # Generic Fallbacks (These are just standard defaults or placeholders; the scanner may rely on actual 404 codes where applicable)
+    "Quora": "404",
+    "Facebook": "Page not found",
+    "Pinterest": "There's nothing here",
+    "Fark": "404",
+    "Disqus": "404",
+    "Imgur": "404",
+    "TryHackMe": "404",
+    "HackTheBox": "404",
+    "Bugcrowd": "404",
+    "HackerOne": "404",
+    "DockerHub": "404",
+    "PyPI": "404",
+    "npm": "404",
+    "Roblox": "404",
+    "Xbox Gamertag": "404",
+    "Patreon": "404",
+    "Substack": "404",
+    "Vimeo": "404",
+    "Bandcamp": "404",
+    "Mixcloud": "404",
+    "ProductHunt": "404",
+    "BuyMeACoffee": "404",
+    "Gist (GitHub)": "404",
+}
