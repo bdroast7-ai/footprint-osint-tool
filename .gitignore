@@ -1,19 +1,9 @@
-# Dependencies
-node_modules/
-.pnpm-store/
-
-# Production Builds
-dist/
-
-# Python environments and caches
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
 .venv/
 venv/
-
-# Local configuration
-.env
-.env.local
-
-# System files
-.DS_Store
+node_modules/
